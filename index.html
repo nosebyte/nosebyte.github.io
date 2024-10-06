@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NoseByt - Interactive Orrery</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div style="position: fixed; top: 0; right: 0; color: #fff; z-index: 10;">*Not to scale</div>
+    <div id="container"></div>
+    <div class="interface">
+      <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+        <button id="pauseButton" style="height: 50px; width: 50px; font-size: 20px;">⏸</button>
+        <h1>ORRERY</h1>
+      </div>
+      <br />
+      <br />
+      <div style="display: flex; flex-direction: row; justify-content: space-between;">
+        <button onclick="resetView()">toggle orbits</button>
+      </div>
+      <label for="speedSlider">Adjust speed</label>
+      <input type="range" id="speedSlider" />
+      <br />
+      <br />
+      <a href="solar.html">Change to solar system view</a>
+      <br />
+      <br />
+    </div>
+
+      <!--Three.js-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+      <!--OrbitControls after Three.js-->
+      <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="earth.js"></script>
+  </body>
+</html>
