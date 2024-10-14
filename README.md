@@ -3,7 +3,9 @@
 # An interactive orerry website for viewing near earth objects
 ###### This was a project made for the [Nasa's International Space apps challenge hackathon](https://www.spaceappschallenge.org/)
 ![NASA space apps hackathon logo](https://assets.spaceappschallenge.org/media/images/Space_Apps_Default_Logo_-_2-Col.width-440.jpegquality-60.png)
-Final working project: [nosebyte's orerry](nosebyte.github.io)
+
+> Final working project: [Nosebyte's orerry](https://nosebyte.github.io/)
+> Our Team: [NoseByt](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/nosebyt/)
 
 ## INTRODUCTION
 
