@@ -1,5 +1,5 @@
-
-## INTRODUCTION
+![nosebyte's interactive orerry in neos view](nosebyte.github.io/assets/neos.png)
+# *INTRODUCTION*
 
 An orrery is a visual and tangible representation of celestial bodies and their orbits, designed to make it easier to grasp the concept of Keplerian orbits and the principles behind their calculations. By displaying the positions and movements of planets, moons, and other objects in a solar system model, an orrery provides an intuitive way to understand complex orbital mechanics.
 
