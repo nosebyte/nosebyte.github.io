@@ -28,7 +28,7 @@ We developed a tool that illustrates planetary Keplerian orbits, helping users v
 ## The code
 
 ### Elliptical orbits
-
+live demo on how we used python to laay our foundation : https://www.youtube.com/watch?v=F3EBBBl8pUs
 We converted the polar equation of an ellipse into 3D Cartesian space by tilting and projecting the ellipse using three angular parameters: the inclination, longitude of the ascending node, and argument of perihelion. 
 This transformation allows the ellipse to be accurately represented in 3 dimensional space.
 
