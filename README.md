@@ -179,7 +179,7 @@ We are all high school students from the same school, same grade and this was ou
 |--|--|
 | [*Sreehari*](https://github.com/retiredmushroom) | Developer - Logic|
 | [*Arjun*](https://github.com/arjunliji) | Developer - Web dev|
-|*Sanmai*|Presentation|
+| [*Sanmai*](https://github.com/nero407)|Presentation |
 |*Aswin*| Presentation|
 |*Amruth*| Presentation|
 
