@@ -177,11 +177,11 @@ We are all high school students from the same school, same grade and this was ou
 ### team members:
 | Name | Role |
 |--|--|
-| [*Sreehari*](https://github.com/retiredmushroom) | Developer - Logic|
-| [*Arjun*](https://github.com/arjunliji) | Developer - Web dev|
-| [*Sanmai*](https://github.com/nero407)|Presentation |
-|*Aswin*| Presentation|
-|*Amruth*| Presentation|
+| [*Sreehari*](https://github.com/retiredmushroom) ||
+| [*Arjun*](https://github.com/arjunliji) ||
+| [*Sanmai*](https://github.com/nero407)||
+|*Aswin*||
+|*Amruth*||
 
 The project took about 48 hours to complete and some prep time before the hackathon
 
