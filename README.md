@@ -1,4 +1,4 @@
-
+	
 # An interactive orerry website for viewing near earth objects
 > Final working project: [Nosebyte's orerry](https://nosebyte.github.io/)
 ![neos view](https://nosebyte.github.io/assets/neos.png)
@@ -185,11 +185,12 @@ We are all high school students from the same school, same grade and this was ou
 
 | Name | Role |
 |--|--|
-| [*Sreehari*](https://github.com/retiredmushroom) ||
-| [*Arjun*](https://github.com/arjunliji) ||
-| [*Sanmai*](https://github.com/nero407)||
-|*Aswin*||
-|*Amruth*||
+| [*Sreehari*](https://github.com/retiredmushroom) | Simulation + logic|
+| [*Arjun*](https://github.com/arjunliji) | Web dev |
+| [*Sanmai*](https://github.com/nero407)| Presentation |
+|[*Aswin*](https://github.com/aswinKrishna37)| Presentation |
+|*Amruth*| Presentation |
+|*Anjana*| group coordinator |
 
 The project took about 48 hours to complete and some prep time before the hackathon
 
