@@ -175,13 +175,14 @@ The interactive nature of the platform allows users to engage with the data in a
 We are all high school students from the same school, same grade and this was our first offline hackathon and we really enjoyed working on it.
 
 ### team members:
-![our team nasa hackathon 2024](https://nosebyte.github.io/assets/team.png)
+![our team nasa hackathon 2024](https://github.com/nosebyte/nosebyte.github.io/blob/main/team.png)
 - Sreehari  (left most light brown tee)
 - Sanmai (left most maroon shirt)
 - Aswin (thir from the left check-pattern brown shirt)
 - Arjun (second from the right)
 - Amruth (right most orange tee)
 - Anjana (Middle most black blazer)
+
 | Name | Role |
 |--|--|
 | [*Sreehari*](https://github.com/retiredmushroom) ||
