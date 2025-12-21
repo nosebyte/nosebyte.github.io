@@ -186,7 +186,7 @@ We are all high school students from the same school, same grade and this was ou
 | Name | Role |
 |--|--|
 | [*Sreehari*](https://github.com/retiredmushroom) | Simulation + logic|
-| [*Arjun*](https://github.com/arjunliji) | Web dev |
+| [*Arjun*](https://github.com/arjc) | Web dev |
 | [*Sanmai*](https://github.com/nero407)| Presentation |
 |[*Aswin*](https://github.com/aswinKrishna37)| Presentation |
 |*Amruth*| Presentation |
