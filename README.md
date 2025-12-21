@@ -3,7 +3,7 @@
 > Final working project: [Nosebyte's orerry](https://nosebyte.github.io/)
 ![neos view](https://nosebyte.github.io/assets/neos.png)
 
-![our team nasa hackathon 2024](https://nosebyte.github.io/assets/neos.png)
+![our team nasa hackathon 2024](https://nosebyte.github.io/assets/team.png)
 - Sreehari  (left most light brown tee)
 - Sanmai (left most maroon shirt)
 - Aswin (thir from the left check-pattern brown shirt)
